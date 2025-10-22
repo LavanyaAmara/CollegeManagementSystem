@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # College Management System
 
 [![MERN Stack](https://img.shields.io/badge/Stack-MERN-blue)](https://www.mongodb.com/mern-stack)
@@ -158,3 +159,7 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+||||||| empty tree
+=======
+College Management System
+>>>>>>> 2eb71f20a2e529d9b2d47e2f76258b820ae5060b
